@@ -60,7 +60,7 @@ executado com runspider.
 
 Exemplo de execução:
 
-    scrapy runspider cotefacil_spider.py -a username=<seu_usuario> -a password=<sua_senha>
+    scrapy runspider scrapy_basico.py -a username=<seu_usuario> -a password=<sua_senha>
 
 Parâmetros obrigatórios
 
@@ -92,7 +92,7 @@ Além disso, também são exibidos no console.
 
 Exemplo de uso completo
 
-    scrapy runspider cotefacil_spider.py   -a username=usuario@example.com   -a password=senha123  
+    scrapy runspider scrapy_basico.py   -a username=usuario@example.com   -a password=senha123  
 
 ------------------------------------------------------------------------
 
