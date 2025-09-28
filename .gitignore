@@ -1,0 +1,54 @@
+# ------------------------------------
+# Python
+# ------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.log
+*.sqlite3
+*.db
+
+# Virtualenv / Poetry
+.venv/
+env/
+venv/
+ENV/
+.poetry/
+
+# Bytecode cache
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------------------
+# Scrapy
+# ------------------------------------
+.scrapy/
+*.jl
+*.json
+*.csv
+*.xml
+
+# Diretórios de saída
+data/
+logs/
+
+# ------------------------------------
+# IDEs e editores
+# ------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ------------------------------------
+# Sistema
+# ------------------------------------
+.DS_Store
+Thumbs.db
